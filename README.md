@@ -1,1 +1,3 @@
-# Rain-Forcasting
+# Rain Forcasting
+
+Rain is a natural phenomenon that has significant impacts in various fields, including agriculture, water resource management, and disaster mitigation. Rain forecasting is important in an effort to understand and anticipate weather patterns related to rain. This research aims to analyze and compare three machine learning algorithms for rain prediction. The dataset used is the WeatherAUS dataset with a total of 24 columns and 142193 rows of data. Some of the columns in the dataset are date, location, minimum and maximum temperature, rainfall, evaporation, wind speed, humidity, pressure, and cloud presence. The machine learning algorithms used in this research are Decision Tree, Naive Bayes, and Support Vector Machine (SVM). Each model was trained using 70% of the total data as training data. From the experiments conducted, Decision tree has the best performance with 100% accuracy than the other 2 algorithms.
